@@ -20,7 +20,8 @@
 
 ## 1. [VL_API_auto](https://github.com/sangho527/VL_API_auto/blob/main/API%20테스트%20자동화/API_Auto.py)
 
-> 각 이미지에 대해 API 응답을 자동 테스트하는 QA/테스트 자동화 도구입니다.
+> 각 이미지에 대해 API 응답을 자동 테스트하는 QA/테스트 자동화 도구입니다. <br>
+> 해당 코드에 들어간 API 요청 값들은 [NCP ARC eye VL API 가이드 공식 문서](https://api.ncloud-docs.com/docs/arc-eye-vl-api) 에서 확인이 가능합니다.
 
 ### 기능
 	•	지정한 이미지 폴더 내 모든 이미지에 대해 API를 자동 호출
